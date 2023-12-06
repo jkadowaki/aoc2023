@@ -37,7 +37,7 @@ def extract_calibration(text:str) -> int:
 
 ################################################################################
 
-def process_words(text:str) -> int:
+def process_words(text:str) -> str:
     """
     Processes line in input calibration document to replace numbers written
     as text as single digit values.
