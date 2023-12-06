@@ -1,16 +1,12 @@
 #!/usr/bin/env python
 
-
 """
-Example
-1abc2 --> 12
-pqr3stu8vwx --> 38
-a1b2c3d4e5f --> 15
-treb7uchet --> 77
+AOC 2023: DAY 1
 
-12+38+15+77 = 142
+Author: Jennifer Kadowaki
+E-mail: jkadowaki@arizona.edu
+Last Updated: 2023 Dec 06
 """
-
 
 ################################################################################
 
