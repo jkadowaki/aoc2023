@@ -70,7 +70,10 @@ def process_words(text:str) -> str:
 
 ################################################################################
 
-def sum_calibrations(input_doc, part1=True):
+def sum_calibrations(input_doc, part1=True) -> int:
+    """
+    Tabulates calibration values in each line of the input document.
+    """
 
     sum = 0
 
